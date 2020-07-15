@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **karlmutch/karlmutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on [StudioML and LEAF AI platform layer](https://github.com/leaf-ai/studio-go-runner) and other private projects. My [LinkedIn profile is also available](https://linkedin.com/in/karlmutch).
+
+<table><tr><td valign="top" width="100%">
+
+#### Recent releases
+<!-- recent_releases starts -->
+<!-- recent_releases ends -->
+</td></tr></table>
+
+<a href="https://github.com/karlmutch/karlmutch/actions"><img src="https://github.com/karlmutch/karlmutch/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
