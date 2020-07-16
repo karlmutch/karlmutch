@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on [StudioML and LEAF AI platform layer](https://github.com/leaf-ai/studio-go-runner) and other private projects. My [LinkedIn profile is also available](https://linkedin.com/in/karlmutch).
+Currently working on [StudioML and LEAF AI platform layer](https://github.com/leaf-ai/studio-go-runner) and other commercial and private projects. My [LinkedIn profile is also available](https://linkedin.com/in/karlmutch).
 
 <table><tr><td valign="top" width="100%">
 
