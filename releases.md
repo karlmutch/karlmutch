@@ -5,7 +5,7 @@ All <!-- release_count starts -->4<!-- release_count ends --> of my released pro
 <!-- recent_releases starts -->
 * **[duat](https://github.com/karlmutch/duat)**: [0.15.3](https://github.com/karlmutch/duat/releases/tag/0.15.3) - 2021-02-15
 <br>duat (developer utilities and tools) for development workflows  (Beta)
-* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.13.1-main-aaaagqekxfj](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.13.1-main-aaaagqekxfj) - 2021-02-13
+* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.13.0](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.13.0) - 2021-02-10
 <br>ML/ENN Runner for privately hosted, cloud, and data-center deployments of StudioML (Beta)
 * **[studio](https://github.com/studioml/studio)**: [Fixes to improve StudioML usage in local mode.](https://github.com/studioml/studio/releases/tag/0.0.15) - 2020-02-19
 <br>Studio: Simplify and expedite model building process
