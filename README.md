@@ -20,7 +20,7 @@ Currently working on [StudioML and LEAF AI platform layer](https://github.com/le
 
 #### Recent releases
 <!-- recent_releases starts -->
-* [studio-go-runner 0.13.1](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.13.1) - 2021-02-25
+* [studio-go-runner 0.13.2-main-aaaagqisitk](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.13.2-main-aaaagqisitk) - 2021-03-04
 * [duat 0.15.5](https://github.com/karlmutch/duat/releases/tag/0.15.5) - 2021-02-25
 * [studio Fixes to improve StudioML usage in local mode.](https://github.com/studioml/studio/releases/tag/0.0.15) - 2020-02-19
 * [bump-ver 0.0.1](https://github.com/karlmutch/bump-ver/releases/tag/0.0.1) - 2018-02-13
