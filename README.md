@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on [StudioML, and the LEAF AI platform layer](https://github.com/leaf-ai/studio-go-runner) as well as other commercial and private projects. My work projects are using Istio with gRPC, Kubernetes (GPU) for ML, Go.  [LinkedIn](https://linkedin.com/in/karlmutch).  I have worked on platforms for for ML infrastructure and MLOps, IoT, Speech recognition, and genome sequencing.
+Currently working on [StudioML, and the LEAF AI platform layer](https://github.com/leaf-ai/studio-go-runner) as well as other commercial and private projects. My work projects are using Istio with gRPC, Kubernetes (GPU) for ML, Go.  [LinkedIn](https://linkedin.com/in/karlmutch).  I have worked on platforms for ML infrastructure and MLOps, IoT, Speech recognition, and genome sequencing.
 
 <table><tr><td valign="top" width="100%">
 
