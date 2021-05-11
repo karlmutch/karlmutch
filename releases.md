@@ -3,7 +3,7 @@
 All <!-- release_count starts -->4<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.14.0-main-aaaagqxwidj](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.14.0-main-aaaagqxwidj) - 2021-05-10
+* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.14.0-main-aaaagqxqesr](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.14.0-main-aaaagqxqesr) - 2021-05-04
 <br>ML/ENN Runner for privately hosted, cloud, and data-center deployments of StudioML (Beta)
 * **[duat](https://github.com/karlmutch/duat)**: [0.15.5](https://github.com/karlmutch/duat/releases/tag/0.15.5) - 2021-02-25
 <br>duat (developer utilities and tools) for development workflows  (Beta)
