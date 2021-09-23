@@ -3,7 +3,7 @@
 All <!-- release_count starts -->5<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.14.3-main-aaaagsbfdfr](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.14.3-main-aaaagsbfdfr) - 2021-09-16
+* **[studio-go-runner](https://github.com/leaf-ai/studio-go-runner)**: [0.14.3-main-aaaagsdvzdw](https://github.com/leaf-ai/studio-go-runner/releases/tag/0.14.3-main-aaaagsdvzdw) - 2021-09-23
 <br>ML/ENN Runner for privately hosted, cloud, and data-center production deployments of StudioML.
 * **[aws-ec2-price](https://github.com/karlmutch/aws-ec2-price)**: [Go 1.17 support](https://github.com/karlmutch/aws-ec2-price/releases/tag/v0.0.3) - 2021-08-17
 <br>Go Package and REST API for searching price of AWS EC2 instance
